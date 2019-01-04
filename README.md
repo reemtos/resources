@@ -4,17 +4,19 @@ A collection of my favourite design and development resources, because my bookma
 
 ## Articles
 
-### CSS-Related Articles
-
 * CSS Weekly - [https://css-weekly.com/](https://css-weekly.com/)
-
-
-### Design-Related Articles
-
 * Five Best Design Links, Everyday - [https://sidebar.io/](https://sidebar.io/)
+* Dev and Design Articles - [https://tympanus.net/codrops/](https://tympanus.net/codrops/)
+* CSS3, JS & HTML5 Articles - [http://www.standardista.com/](http://www.standardista.com/)
 
 
-## Tools
+## Technical Tools
+
+### Dev Tools
+
+* Can I Use - [https://caniuse.com/](https://caniuse.com/)
+* Free Background Videos - [https://coverr.co/](https://coverr.co/)
+* Streamline Icons - [https://www.streamlineicons.com/](https://www.streamlineicons.com/)
 
 ### CSS Tools
 
@@ -34,3 +36,13 @@ A collection of my favourite design and development resources, because my bookma
 * Color Shades Generator - [http://www.0to255.com/](http://www.0to255.com/)
 * Sketch App Resources - [https://www.sketchappsources.com/](https://www.sketchappsources.com/)
 * Illustration Creator - [https://www.humaaans.com/](https://www.humaaans.com/)
+* Free Stock Photos - [https://www.pexels.com/](https://www.pexels.com/)
+* Official Brand Color Codes - [https://brandcolors.net/](https://brandcolors.net/)
+* Real content for Designs - [https://www.lists.design/](https://www.lists.design/)
+* Free Outline Iconset - [http://linea.io/](http://linea.io/)
+* Free Photos - [https://unsplash.com/](https://unsplash.com/)
+
+### General Tools
+
+* Text Case Converter - [https://convertcase.net/](https://convertcase.net/)
+* Image Size Compressor - [https://tinypng.com/](https://tinypng.com/)
