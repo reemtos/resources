@@ -25,6 +25,7 @@ A collection of my favourite design and development resources, because my bookma
 * CSS Clip-Path Maker - [http://bennettfeely.com/clippy/](http://bennettfeely.com/clippy/)
 * Easing Functions List - [https://easings.net/](https://easings.net/)
 * CSS Animation Types - [http://animista.net/](http://animista.net/)
+* Useful :nth-child Recipes - [https://css-tricks.com/useful-nth-child-recipies/](https://css-tricks.com/useful-nth-child-recipies/)
 
 ### Design Tools and Resources
 
